@@ -31,3 +31,7 @@ Foursquare Rate Limiting
   It's very common for users to max-out their available daily calls. The calls for Venue Ratings can definitely exceed daily limits.
   The Neighborhood Analysis by Venue Ratings will identify if rate limiting is in-effect and if true, apply random rating numbers to venues.
   There is a notification displayed is rate limiting has been detected.
+
+Program Development Notes
+  I built the Neighborhood Analysis by Venue Ratings primarily using the IBM Watson Studio environment. I created a Jupyter notebook to complete the coding. 
+  However due to the complexitity of the code and time required, I exceeded my free quota allowed. I completed the project using Acaconda.
